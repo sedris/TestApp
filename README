@@ -1,0 +1,4 @@
+Some steps to get this to work.
+
+1. Change userName in line 141 of Lpr.java
+2. Find a pdf file in your sd card and change line 96 in TestActivity.java to point to that file. The path should be "/sdcard/download/<your-file-name>"
